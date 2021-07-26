@@ -1,3 +1,4 @@
+//
 let pointPlayer1 = 0;
 let pointPlayer2 = 0;
 
